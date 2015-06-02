@@ -10,7 +10,7 @@ Wapuu is licensed under GNU General Public License v2 or later. It's same as Wor
 Wapuu's copyright is reserved by Kazuko Kaneuchi.
 
 ------  
-[Nemanja Aleksic] (http://nemanja.rocks/)
-[Milica Spasojevic] (https://www.behance.net/milica_spasojevic)
+[Nemanja Aleksic] (http://nemanja.rocks/)   
+[Milica Spasojevic] (https://www.behance.net/milica_spasojevic)   
 [WordCamp Belgrade](https://belgrade.wordcamp.org/2015/)   
 [Wapuu archive page](http://jawordpressorg.github.io/wapuu/)   
